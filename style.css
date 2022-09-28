@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    font-size: 32px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    place-items: center;
+    margin: auto;
+
+}
+.information{
+    text-align: center;
+    font-size: 24px;
+}
+.mainheaders{
+    text-align: center;
+    font-size: 20px;
+}
